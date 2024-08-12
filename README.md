@@ -1,4 +1,6 @@
-# MARKET BASKET ANALYSIS PROJECT
+![good-l-corp-which-shopping-baskets-most-durable-1024x682](https://github.com/user-attachments/assets/51295bf7-8340-4e11-8ea1-542358f3d6e5)
+
+# **MARKET BASKET ANALYSIS PROJECT**
 
 This repository contains a market basket analysis project as a part of my data analyst portfolio. The main objective of this project is to discover rules that describe the relationships between different item with association rules mining. The output of this analysis helps business understands which products customer frequently purchased together and use this information for various purposes such as cross-selling, special deals, and product placement. 
 
