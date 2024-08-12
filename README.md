@@ -4,12 +4,6 @@
 
 This repository contains a market basket analysis project as a part of my data analyst portfolio. The main objective of this project is to discover rules that describe the relationships between different item with association rules mining. The output of this analysis helps business understands which products customer frequently purchased together and use this information for various purposes such as cross-selling, special deals, and product placement. 
 
-## DATASET
-
-Dataset that were used for this project is publicaly available on kaggle. This dataset contains record of transactions that belong to a retailer that sells various grocery items.
-
-**Source** : Kaggle (https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis)
-
 ## ASSOCIATION RULE MINING
 
 Association rule mining is a technique used to identify patterns and relationships in a large dataset that may not immediately apparent. Three metrics that were used to evaluate quality and importance of the discovered rules are support, confidence, and lift.
@@ -70,3 +64,9 @@ Based on the calculation above, we can justify the hypothesis as we found out th
 - The support of 2% transactions for item A and item B in the same basket
 - 25% confidence that item A and item B is in the same basket
 - item A sales influences item B sales by 2.5 times more
+
+## DATASET
+
+Dataset that we will use for implementation in this project is publicaly available on kaggle. This dataset contains record of transactions that belong to a retailer that sells various grocery items.
+
+**Source** : Kaggle (https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis)
